@@ -4,7 +4,7 @@ Hi, I'm Zahra 👋
 I'm building my portfolio here. Projects and documents will be added soon.
 
 ## Skills
-- React· Node.js · Express · PostgreSQL · MongoDB
+- React.js
 - Node.js 
 - Express 
 - PostgreSQL
@@ -13,4 +13,4 @@ I'm building my portfolio here. Projects and documents will be added soon.
 
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/ridaezahra/
+- LinkedIn: https://www.linkedin.com/in/ridaezahra/ 
